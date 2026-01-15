@@ -53,7 +53,7 @@ export const resources: Resource[] = [
   },
   {
     id: "west-central-community-center",
-    name: "West Central Community CEnter",
+    name: "West Central Community Central",
     category: "Disability Services",
     tags: ["disability services"],
     address: "1603 N Belt St, Spokane, WA 99205",
